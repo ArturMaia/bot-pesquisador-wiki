@@ -1,8 +1,16 @@
+<p align="center">
+  <img src="https://github.com/ArturMaia/bot-pesquisador-wiki/blob/main/Imagens/icone.jpeg" alt=" bot" width="150" style="border-radius: 10px;">
+</p>
+
 # Bot Pesquisador Wiki
 
 Bem-vindo ao **Bot Pesquisador Wiki**! 🤖📚
 
 Este projeto é um aplicativo simples e intuitivo que permite pesquisar e obter resumos automáticos de artigos da Wikipédia em português, diretamente na sua tela. Com ele, você pode digitar um termo, e o bot traz um resumo com as principais informações, facilitando seu aprendizado e pesquisa.
+
+<p align="center">
+  <img src="https://github.com/ArturMaia/bot-pesquisador-wiki/blob/main/Imagens/TelaPesquisa.png?raw=true" alt="Tela principal" width="300">
+</p>
 
 ---
 
