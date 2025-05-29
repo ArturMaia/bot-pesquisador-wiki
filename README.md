@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArturMaia/bot-pesquisador-wiki/blob/main/Imagens/icone.jpeg" alt=" bot" width="150" style="border-radius: 10px;">
+  <img src="https://github.com/ArturMaia/bot-pesquisador-wiki/blob/main/Imagens/icone.jpeg" alt=" bot" style="width: 150px; border-radius: 10px;">
 </p>
 
 # Bot Pesquisador Wiki
