@@ -30,7 +30,14 @@ janela.geometry("400x500")
 entrada = tk.Entry(janela, font=("Arial", 14))
 entrada.pack(pady=10, padx=10, fill=tk.X)
 
-botao = tk.Button(janela, text="Pesquisar", command=buscar, font=("Arial", 12))
+botao = tk.Button(
+    janela,
+    text="Pesquisar",
+    command=buscar,
+    font=("Arial", 12),
+    bg="#ADD8E6", 
+    activebackground="#B0E0E6" 
+)
 botao.pack(pady=5)
 
 texto_frame = tk.Frame(janela)
